@@ -1,0 +1,7 @@
+1. Acesso sequencial à memória e inicialização eficiente de arrays;
+2. Uso de funções inline;
+3. Manipulação cuidadosa de ponteiros para evitar acessos desnecessários;
+4. Uso de diretivas de compilação para auxiliar o compilador na predição de ramificações;
+5. Utilização de variáveis de registrador para loops críticos;
+6. Utilização de operações de shift de bits para divisões por 2, onde apropriado;
+7. Mudança da tipagem de variáveis para estruturas de menor memória.
